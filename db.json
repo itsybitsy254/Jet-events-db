@@ -1,0 +1,63 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Rock Concert",
+      "description": "A thrilling rock concert featuring popular bands.",
+      "date": "2024-09-10T19:00:00Z",
+      "location": "Stadium Arena, Cityville",
+      "price": 50.00,
+      "availableTickets": 500
+    },
+    {
+      "id": 2,
+      "title": "Art Exhibition",
+      "description": "An exhibition showcasing contemporary art from various artists.",
+      "date": "2024-09-15T10:00:00Z",
+      "location": "Art Gallery, Downtown",
+      "price": 20.00,
+      "availableTickets": 200
+    },
+    {
+      "id": 3,
+      "title": "Tech Conference",
+      "description": "A conference on the latest trends in technology and innovation.",
+      "date": "2024-10-05T09:00:00Z",
+      "location": "Convention Center, Tech City",
+      "price": 150.00,
+      "availableTickets": 300
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "555-1234"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "555-5678"
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "userId": 1,
+      "eventId": 1,
+      "numberOfTickets": 2,
+      "totalPrice": 100.00,
+      "bookingDate": "2024-08-14T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "eventId": 3,
+      "numberOfTickets": 1,
+      "totalPrice": 150.00,
+      "bookingDate": "2024-08-15T09:00:00Z"
+    }
+  ]
+}
