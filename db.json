@@ -6,8 +6,9 @@
       "description": "A thrilling rock concert featuring popular bands.",
       "date": "2024-09-10T19:00:00Z",
       "location": "Stadium Arena, Cityville",
-      "price": 50.00,
-      "availableTickets": 500
+      "price": "50.00",
+      "tickets": "500",
+      "imageUrl": "https://www.google.com/search?sca_esv=604fe53e2192f73a&sca_upv=1&q=ruger&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jo6Ttnu6iRjjgGjARfLolnBoLZZFBaghikH-Cd5D8-jDvC-_h7g9ohAN2yKByh2pgojEaF7fDNtZ7iWtirA9J9kzMSe2VBYlJKDm9fBpalu0yZE1iw&sa=X&ved=2ahUKEwiKpfPgv_aHAxWTWEEAHQnkBfcQtKgLegQIDxAB&biw=1920&bih=961&dpr=1#vhid=RXYM7xp4ALlSWM&vssid=mosaic"
     },
     {
       "id": 2,
@@ -15,8 +16,9 @@
       "description": "An exhibition showcasing contemporary art from various artists.",
       "date": "2024-09-15T10:00:00Z",
       "location": "Art Gallery, Downtown",
-      "price": 20.00,
-      "availableTickets": 200
+      "price": "20.00",
+      "tickets": "200",
+      "imageUrl": "https://www.google.com/search?sca_esv=604fe53e2192f73a&sca_upv=1&q=ruger&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jo6Ttnu6iRjjgGjARfLolnBoLZZFBaghikH-Cd5D8-jDvC-_h7g9ohAN2yKByh2pgojEaF7fDNtZ7iWtirA9J9kzMSe2VBYlJKDm9fBpalu0yZE1iw&sa=X&ved=2ahUKEwiKpfPgv_aHAxWTWEEAHQnkBfcQtKgLegQIDxAB&biw=1920&bih=961&dpr=1#vhid=RXYM7xp4ALlSWM&vssid=mosaic"
     },
     {
       "id": 3,
@@ -24,8 +26,9 @@
       "description": "A conference on the latest trends in technology and innovation.",
       "date": "2024-10-05T09:00:00Z",
       "location": "Convention Center, Tech City",
-      "price": 150.00,
-      "availableTickets": 300
+      "price": "150.00",
+      "tickets": "300",
+      "imageUrl": "https://www.google.com/search?sca_esv=604fe53e2192f73a&sca_upv=1&q=ruger&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jo6Ttnu6iRjjgGjARfLolnBoLZZFBaghikH-Cd5D8-jDvC-_h7g9ohAN2yKByh2pgojEaF7fDNtZ7iWtirA9J9kzMSe2VBYlJKDm9fBpalu0yZE1iw&sa=X&ved=2ahUKEwiKpfPgv_aHAxWTWEEAHQnkBfcQtKgLegQIDxAB&biw=1920&bih=961&dpr=1#vhid=RXYM7xp4ALlSWM&vssid=mosaic"
     }
   ],
   "users": [
