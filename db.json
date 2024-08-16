@@ -2,8 +2,8 @@
   "events": [
     {
       "id": 1,
-      "title": "Rock Concert",
-      "description": "A thrilling rock concert featuring popular bands.",
+      "title": "Wake Up Call",
+      "description": "A thrilling Morning concert featuring popular bands to kickstart your day.",
       "date": "2024-09-10T19:00:00Z",
       "location": "Stadium Arena, Cityville",
       "price": "50.00",
@@ -12,20 +12,20 @@
     },
     {
       "id": 2,
-      "title": "Art Exhibition",
-      "description": "An exhibition showcasing contemporary art from various artists.",
+      "title": "Street Parade Party",
+      "description": "Warm up party from various artists sponsered by Wunder Box.",
       "date": "2024-09-15T10:00:00Z",
-      "location": "Art Gallery, Downtown",
+      "location": "Nairobi, Downtown",
       "price": "20.00",
       "tickets": "200",
       "imageUrl": "https://img.goabase.net/images/flyer/full/20240809_street-parade-warm-up-party_20240723203537.webp"
     },
     {
       "id": 3,
-      "title": "Tech Conference",
-      "description": "A conference on the latest trends in technology and innovation.",
+      "title": "Space Rave",
+      "description": "Nightlife in space.",
       "date": "2024-10-05T09:00:00Z",
-      "location": "Convention Center, Tech City",
+      "location": "Convention Center",
       "price": "150.00",
       "tickets": "300",
       "imageUrl": "https://img.goabase.net/images/flyer/full/20240706_space-rave_20240705003728.webp"
