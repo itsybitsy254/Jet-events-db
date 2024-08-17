@@ -29,19 +29,81 @@
       "price": "150.00",
       "tickets": "300",
       "imageUrl": "https://img.goabase.net/images/flyer/full/20240706_space-rave_20240705003728.webp"
+    },
+    {
+      "id": 4,
+      "title": "Jungle Street Grove",
+      "description": "Elevate your moods in a tranquil space.",
+      "date": "2024-34-05T09:00:00Z",
+      "location": "Mumble Jungle",
+      "price": "50.00",
+      "tickets": "300",
+      "imageUrl": "https://img.goabase.net/images/flyer/full/20240817_after-jungle-street-groove-basel-techno-goa-vibes_20240811135132.webp"
+    },
+    {
+      "id": 5,
+      "title": "Summer Tides",
+      "description": "Concert at the beach ft your favourite artists.",
+      "date": "2024-19-05T09:00:00Z",
+      "location": "Diani Beach",
+      "price": "100.00",
+      "tickets": "700",
+      "imageUrl": "https://img.goabase.net/images/flyer/large/20240823_shove-jossie-telch-1st-time-in-austria_20240807035235.webp"
+    },
+    {
+      "id": 6,
+      "title": "Pool Side",
+      "description": "Enjoy quality time with the best DJ's on Live recording.",
+      "date": "2024-31-05T09:00:00Z",
+      "location": "Beach Front Estate",
+      "price": "150.00",
+      "tickets": "100",
+      "imageUrl": "https://img.goabase.net/images/flyer/large/20240902_poolside-pedros-unofficial-sutihimdubinsomnia-afterparty_20240813202602.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Mega 9oer",
+      "description": "Come celebrate 20th annivesary with us.",
+      "date": "2024-21-05T09:00:00Z",
+      "location": "Astra House",
+      "price": "100.00",
+      "tickets": "100",
+      "imageUrl": "https://img.goabase.net/images/flyer/large/20240907_mega-90er-rave_20240625113537.webp"
+    },
+    {
+      "id": 8,
+      "title": "Sleepless",
+      "description": "Come Rave with us till the sun comes up.",
+      "date": "2024-11-05T09:00:00Z",
+      "location": "Trampsia",
+      "price": "100.00",
+      "tickets": "70",
+      "imageUrl": "https://img.goabase.net/images/flyer/medium/20240913_sleepless-one-night-with-trampasta_20240629010725.webp"
+    },
+    {
+      "id": 9,
+      "title": "Mystic Rose",
+      "description": "Enjoy an all black masquerade party.",
+      "date": "2024-18-05T09:00:00Z",
+      "location": "Kit Kat club",
+      "price": "130.00",
+      "tickets": "150",
+      "imageUrl": "https://img.goabase.net/images/flyer/large/20240920_the-mystic-rose-mietz-phangan_20240813150004.webp"
     }
   ],
   "users": [
     {
       "id": 1,
       "name": "John Doe",
-      "email": "john.doe@example.com",
+      "email": "john@gmail.com",
+      "password": "12345",
       "phone": "555-1234"
     },
     {
       "id": 2,
       "name": "Jane Smith",
-      "email": "jane.smith@example.com",
+      "email": "jane@gmail.com",
+      "password": "12345",
       "phone": "555-5678"
     }
   ],
@@ -50,7 +112,7 @@
       "id": 1,
       "userId": 1,
       "eventId": 1,
-      "numberOfTickets": 2,
+      "numberOfTickets": 1,
       "totalPrice": 100.00,
       "bookingDate": "2024-08-14T12:00:00Z"
     },
