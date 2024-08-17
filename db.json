@@ -89,6 +89,36 @@
       "price": "130.00",
       "tickets": "150",
       "imageUrl": "https://img.goabase.net/images/flyer/large/20240920_the-mystic-rose-mietz-phangan_20240813150004.webp"
+    },
+    {
+      "id": 10,
+      "title": "Velocity",
+      "description": "Party at your own pleasure (unrestricted).",
+      "date": "2024-20-05T09:00:00Z",
+      "location": "Kampnou club",
+      "price": "80.00",
+      "tickets": "100",
+      "imageUrl": "https://img.goabase.net/images/flyer/large/20240823_velocity_20231018124814.webp"
+    },
+    {
+      "id": 11,
+      "title": "Ajourney",
+      "description": "Summer Close Fest.",
+      "date": "2024-10-05T09:00:00Z",
+      "location": "Gemini",
+      "price": "120.00",
+      "tickets": "100",
+      "imageUrl": "https://img.goabase.net/images/flyer/large/20240920_a-journey-summer-closing-2024-w-goa-jonas-djoanna_20240624105306.webp"
+    },
+    {
+      "id": 12,
+      "title": "Hypnotopia",
+      "description": "Experience extreme sports party.",
+      "date": "2024-21-05T09:00:00Z",
+      "location": "Villa Rosa",
+      "price": "80.00",
+      "tickets": "140",
+      "imageUrl": "https://img.goabase.net/images/flyer/large/20240920_hypnotopia_20240802222242.webp"
     }
   ],
   "users": [
